@@ -2,13 +2,13 @@
   "rounds": [
     {
       "week": 0,
-      "openAt": "2026-09-04",
-      "verdictAt": "2026-09-09"
+      "openAt": "2026-09-07",
+      "verdictAt": "2026-09-14"
     },
     {
       "week": 1,
-      "openAt": "2026-09-09",
-      "verdictAt": "2026-09-19"
+      "openAt": "2026-09-14",
+      "verdictAt": "2026-09-21"
     },
     {
       "week": 2,
