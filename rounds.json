@@ -1,41 +1,51 @@
 [
   {
     "week": 0,
+    "openAt": "2026-08-24",
+    "verdictAt": "2026-08-31"
+  },
+  {
+    "week": 1,
+    "openAt": "2026-08-31",
+    "verdictAt": "2026-09-07"
+  },
+  {
+    "week": 2,
     "openAt": "2026-09-07",
     "verdictAt": "2026-09-14"
   },
   {
-    "week": 1,
+    "week": 3,
     "openAt": "2026-09-14",
     "verdictAt": "2026-09-21"
   },
   {
-    "week": 2,
+    "week": 4,
     "openAt": "2026-09-21",
     "verdictAt": "2026-09-28"
   },
   {
-    "week": 3,
+    "week": 5,
     "openAt": "2026-09-28",
     "verdictAt": "2026-10-05"
   },
   {
-    "week": 4,
+    "week": 6,
     "openAt": "2026-10-05",
     "verdictAt": "2026-10-12"
   },
   {
-    "week": 5,
+    "week": 7,
     "openAt": "2026-10-12",
     "verdictAt": "2026-10-19"
   },
   {
-    "week": 6,
+    "week": 8,
     "openAt": "2026-10-19",
     "verdictAt": "2026-10-26"
   },
   {
-    "week": 7,
+    "week": 9,
     "openAt": "2026-10-26",
     "verdictAt": "2026-11-02"
   }
